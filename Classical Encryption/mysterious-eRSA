@@ -1,0 +1,105 @@
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 19
+PRIVATE k multiplier: 16
+PRIVATE decryption key: 1627
+CIPHERTEXT: 1073
+250
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 3
+^CTraceback (most recent call last):
+  File "rsa.py", line 17, in <module>
+    if (d*10) % 10 != 0:
+KeyboardInterrupt
+
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+hi
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 67
+2003
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 67
+2003
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 1030
+250
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 528
+73
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 2020
+2020
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 0
+0
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 773
+CIPHERTEXT: 1479
+23
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 3
+√print("PRIVATE k multiplier: " + str(k))
+        print("PRIVATE decryption key: " + str(d))^C
+^CTraceback (most recent call last):
+  File "rsa.py", line 17, in <module>
+    if (d*10) % 10 != 0:
+KeyboardInterrupt
+
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2021
+ENCRYPTION KEY: 7
+^CTraceback (most recent call last):
+  File "rsa.py", line 17, in <module>
+    if (d*10) % 10 != 0:
+KeyboardInterrupt
+
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2773
+ENCRYPTION KEY: 5
+PRIVATE k multiplier: 3
+PRIVATE decryption key: 1601
+CIPHERTEXT: 210
+23
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2773
+ENCRYPTION KEY: 3
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 1779
+CIPHERTEXT: 1075
+23
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ python3 rsa.py
+N: 2773
+ENCRYPTION KEY: 3
+PRIVATE k multiplier: 2
+PRIVATE decryption key: 1779
+CIPHERTEXT: 1444
+789
+Rohans-MacBook-Pro-2:QCrypto kulnahor$ 
